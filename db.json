@@ -1,0 +1,46 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jorge",
+      "email": "pepito@pepito.com",
+      "telefono": "8126967369",
+      "empresa": "Khara",
+      "id": 27
+    },
+    {
+      "nombre": "Luz Elí",
+      "email": "eli@correo.com",
+      "telefono": "458954621",
+      "empresa": "Dra Muelitas",
+      "id": 28
+    },
+    {
+      "nombre": "Pablo Ibarra",
+      "email": "pablo@picadillo.com",
+      "telefono": "1245478",
+      "empresa": "Microsoft",
+      "id": 29
+    },
+    {
+      "nombre": "Asuka Langley",
+      "email": "asuka@gmail.com",
+      "telefono": "5554791",
+      "empresa": "Nerv",
+      "id": 30
+    },
+    {
+      "nombre": "Rei Ayanami",
+      "email": "rei@gmail.com",
+      "telefono": "55548913",
+      "empresa": "Nerv",
+      "id": 31
+    },
+    {
+      "nombre": "Shinji Ikari",
+      "email": "shinji@gmail.com",
+      "telefono": "55478513",
+      "empresa": "Nerv",
+      "id": 32
+    }
+  ]
+}
